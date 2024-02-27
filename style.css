@@ -206,3 +206,8 @@ a {
     margin-bottom: 1rem;
   }
 }
+
+.credit {
+  position: absolute;
+  bottom: 0.5rem;
+}
